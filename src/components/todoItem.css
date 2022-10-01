@@ -1,0 +1,9 @@
+.todoTask {
+  padding-left: 20px;
+  margin: 20px;
+  border-radius: 8px;
+  background-color: rgb(220, 183, 255);
+}
+.task {
+  margin: 20px;
+}
